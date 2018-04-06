@@ -9,4 +9,4 @@ Using Google Maps API and obtaining user coordinates through web browser, this a
 * Google API
 
 ## In Order to Use
-In order to use this application you must have a(n) Google API Key.
+In order to use this application you must have a Google API Key.
