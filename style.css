@@ -1,0 +1,65 @@
+body{
+  font: 15px/1.5 Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+header{
+  background-color: black;
+  height: 155px;
+  border-top: white 10px solid;
+  border-bottom: white 10px solid;
+}
+
+header #title h1{
+  color: white;
+  padding-top: 30px;
+  padding-left: 30px;
+  font-weight: bold;
+}
+
+#section-1 {
+  min-height:400px;
+  /* adding image to background */
+  background:url('../img/map.jpeg') no-repeat 0 -400px;
+  text-align: center;
+}
+
+#section-2{
+  min-height: 200px;
+  text-align: center;
+  background-color: black;
+  border-top: white 10px solid;
+  border-bottom: white 10px solid;
+}
+
+#section-2 p{
+  font-size: 40px;
+  color: white;
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+#section-3{
+  text-align: center;
+}
+
+#section-3 p{
+  margin-top: 10px;
+}
+
+#section-3 #map{
+  background-color: grey;
+  width:100%;
+  height:400px;
+  margin-bottom: 50px;
+}
+
+footer{
+  background-color: black;
+  height: 100px;
+  text-align: center;
+  padding: 35px;
+  color: white;
+  
+}
