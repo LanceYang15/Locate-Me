@@ -1,5 +1,5 @@
 # Locate-Me
-Using Google Maps API and obtaining user coordinates through web browser, this application is able to show user location with a marker on Google maps.
+Using Google Maps API and obtaining user coordinates through web browser, this application is able to show user location with a marker on Google maps. This is a front end web development project that implements a responsive web page to adjust to different screen sizes.
 
 ## Technology Used
 * Visual Studio Code
